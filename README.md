@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @optimizet1
 - 👀 I’m interested in implementing properly designed code
-- 🌱 I’m currently learning how to fix jello code
+- 🌱 I’m currently learning how to fix jello code (obviously not in C#)
 - 💞️ .NET Core and C#
 
 
