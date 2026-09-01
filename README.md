@@ -1,4 +1,5 @@
-## Technology Strategy • Software Engineering • AI • Digital Transformation
+## Bridging Executive Strategy & Software Engineering | Leading Technology Delivery | AI & Transformation | Delivering Operational Efficiency, Business Value & Competitive Advantage
+
 
 I work at the intersection of **business strategy, technology, and software engineering**—helping organizations turn complex business problems into practical technology strategies and solutions.
 
